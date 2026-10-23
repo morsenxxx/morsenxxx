@@ -13,7 +13,7 @@
   <img src="./atelier/languages.4435a915.svg" width="49%" alt="Top languages"/>
 </p>
 
-<p align="center"><img src="./atelier/activity.002c1554.svg" width="100%" alt="Contribution activity"/></p>
+<p align="center"><img src="./atelier/activity.8657e236.svg" width="100%" alt="Contribution activity"/></p>
 
 <p align="center">
   <a href="https://github.com/morsenxxx/morsenxxx"><img src="./atelier/repo-1.4109191b.svg" width="49%" alt="morsenxxx"/></a>
@@ -22,6 +22,6 @@
 
 <p align="center"><img src="./atelier/stack.9a6d9639.svg" width="100%" alt="Tech stack"/></p>
 
-<p align="center"><img src="./atelier/footer.3d1d69d9.svg" width="100%" alt="Footer"/></p>
+<p align="center"><img src="./atelier/footer.2f90f25e.svg" width="100%" alt="Footer"/></p>
 
 <!-- readme-atelier:end -->
